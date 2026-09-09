@@ -1,0 +1,11 @@
+import os
+os.system('cls')
+print("Hello, World!")
+print("-"*10)
+print("#"*20, "Aula de Python", "#"*20)
+print("Total: ", 50*6)
+print(f"Total: {9*9}")
+print(f"Total: {59/2:.2f}")
+print("-"*10)
+print(f"Nome: \nTelefone: \nCep: \n")
+print(f"código: \tR${25,00}\nQuantidade: \t{30}\nTotal: \t\tR${25,00*30}")
