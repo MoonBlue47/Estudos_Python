@@ -3,6 +3,8 @@
 import os
 os.system('cls')
 
-num3 = int(input("Digite um numero: "))
+num3 = int(input("Digite um numero real: "))
 
-print("A terça parte deste numero: ", num3/3)
+tercaParte = (num3/3)
+
+print(f"{tercaParte:.2f}")

@@ -3,7 +3,8 @@
 import os
 os.system('cls')
 
-num1 = int(input("Digite primeira nota: "))
-num2 = int(input("Digite segunda nota: "))
-num3 = int(input("Digite terceira nota: "))
+num01 = float(input("Digite um numero real: "))
+num02 = float(input("Digite um numero real: "))
 
+media = (num01+num02)/2
+print(media)

@@ -3,12 +3,10 @@
 import os
 os.system('cls')
 
-num1 = int(input("Digite o primeiro numero: "))
-num2 = int(input("Digite o segundo numero: "))
+dividendo = int(input("Digite um numero: "))
+divisor = int(input("Digite um numero: "))
 
+quociente = dividendo/divisor
+resto = dividendo%divisor
 
-
-print("Dividendo: ")
-print("Divisor: ")
-print("Quociente: ")
-print("Resto: ")
+print(f"Divisor {divisor} \nDividendo {dividendo} \nQuociente {quociente} \nResto {resto}")
