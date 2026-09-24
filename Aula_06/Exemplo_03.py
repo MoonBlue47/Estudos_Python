@@ -3,7 +3,7 @@ os.system('cls')
 
 num01 = 15
 num02 = 20
-op = "-"
+op = "-" #Descide a operação
 
 if op == "+":
     total = num01+num02
