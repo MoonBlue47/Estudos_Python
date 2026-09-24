@@ -103,15 +103,15 @@ fundamentos-python/
 ---
 
 # Destaque dos Desafios
-## Desafio 01: Escola Tio Sam de Idiomas (`aula_06/Desafio.py`)
+### Desafio 01: Escola Tio Sam de Idiomas (`aula_06/Desafio.py`)
 * **Objetivo:** Calcular o valor com desconto da mensalidade de um estudante de acordo com a sua opção de nível e o dia em que o pagamento foi efetuado.
 * **Técnicas:** Mapeamento de escolhas através de `match/case`, verificação de datas com blocos `if/elif` e formatação de saída financeira com `f-strings`.
 
-## Algoritmo 356: Gestão de Notas com Listas Aninhadas (`aula_08/Algoritmo_356.py`)
+### Algoritmo 356: Gestão de Notas com Listas Aninhadas (`aula_08/Algoritmo_356.py`)
 * **Objetivo:** Registar notas de provas de vários alunos numa estrutura bidimensional e apresentar um boletim indicando a situação de aprovação ou reprovação
 * **Técnicas:** Iteração controlada por `range()`, listas aninhadas (matrizes de dados) e arredondamento numérico com `round()`.
 
-## Desafio 2: Calculadora Modularizada com Funções (`aula_09/Desafio_2.py`)
+### Desafio 2: Calculadora Modularizada com Funções (`aula_09/Desafio_2.py`)
 * **Objetivo:** Criar um menu interativo de operações matemáticas modularizado através de funções personalizadas em Python.
 * **Técnicas:** Declaração de funções com def, direcionamento de execução via match/case e reutilização de código.
 
