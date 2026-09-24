@@ -1,4 +1,4 @@
-# 🐍 Formação Backend Python: Fundamentos
+# 🐍 Formação Python: Fundamentos
 
 Repositório destinado ao registo, versionamento e consolidação dos exercícios práticos desenvolvidos durante o curso de Backend em Python, cobrindo desde a sintaxe inicial até algoritmos, funções e estruturas de dados fundamentais.
 
